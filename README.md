@@ -1,2 +1,2 @@
 # test-sbo
-# Mon commentaire à moi (ALAN)
+# Mon commentaire à nous (ALAN et SBO)
